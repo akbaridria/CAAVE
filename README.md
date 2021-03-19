@@ -3,7 +3,7 @@ Aave Govarnance Dashboard with The Network Assets and Wallet Checker using Coval
 
 > Splash Screen
 
-![Screenshot_1616059389](https://user-images.githubusercontent.com/26589426/111730816-c2d9cd80-88a4-11eb-97d4-ce875c0cd06c.png | width="30%" height="30%")
+![Screenshot_1616059389](https://user-images.githubusercontent.com/26589426/111730816-c2d9cd80-88a4-11eb-97d4-ce875c0cd06c.png | width=48)
 
 > Dashboard Governance
 
@@ -17,6 +17,6 @@ Aave Govarnance Dashboard with The Network Assets and Wallet Checker using Coval
 
 ![Screenshot_1616056549](https://user-images.githubusercontent.com/26589426/111730918-fb79a700-88a4-11eb-9f82-976b7b9ebe65.png)
 
-> Download APK Here [I'm an inline-style link](https://drive.google.com/file/d/1I0Hr49nHFffRWXM6SlGpqIsl8U-R2qpn/view?usp=sharing)
+> Download APK  [Here](https://drive.google.com/file/d/1I0Hr49nHFffRWXM6SlGpqIsl8U-R2qpn/view?usp=sharing)
 
 
