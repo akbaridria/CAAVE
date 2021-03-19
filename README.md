@@ -3,7 +3,7 @@ Aave Govarnance Dashboard with The Network Assets and Wallet Checker using Coval
 
 > Splash Screen
 
-![Screenshot_1616059389](https://user-images.githubusercontent.com/26589426/111730816-c2d9cd80-88a4-11eb-97d4-ce875c0cd06c.png)
+![Screenshot_1616059389](https://user-images.githubusercontent.com/26589426/111730816-c2d9cd80-88a4-11eb-97d4-ce875c0cd06c.png | width="30%" height="30%")
 
 > Dashboard Governance
 
